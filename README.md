@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 [mongoDb]: https://www.mongodb.com/
 [tailwind]: https://tailwindcss.com
 
-[website]: https://linkedin.com/in/phamel
-[twitter]: https://twitter.com/phamel
-[instagram]: https://instagram.com/phamel
-[linkedin]: https://linkedin.com/in/phamel
+[website]: https://www.linkedin.com/in/palhamel/
+[twitter]: https://twitter.com/palhamel
+[instagram]: https://www.instagram.com/palhamel/
+[linkedin]: https://www.linkedin.com/in/palhamel/
 [vimeo]: https://vimeo.com/palhamel
