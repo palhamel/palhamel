@@ -1,26 +1,12 @@
 [![bg][banner]][website]
 
-### Hi I'm Pål 👋  living in Sweden 🇸🇪 
+### Hi I'm Pål 👋, living in Sweden 🇸🇪 
 
-<!--
-**palhamel/palhamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### Creative Director/ Frontend Developer/ Digital Designer
 
 👨 I’m a creative director, frontend developer and digital designer with a diverse skillset including marketing, strategy and brand communication. 
 
-👨🏼‍💻 Working with [react][react], [node][node], [express][express], [mongoDb][mongoDb], [styled-components][styled], [tailwindCSS][tailwind].
+👨🏼‍💻 Working with [react][react], [node][node], [express][express], [mongoDb][mongodb], [styled-components][styled], [tailwind][tailwind].
 
 🌱 I have a special interest in sustainability, business development, tech, marketing, strategy, storytelling and content creation.
 
