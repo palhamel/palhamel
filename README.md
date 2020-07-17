@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 🎬 [vimeo][vimeo] **|** 
 🐦 [twitter][twitter] 
 
-[banner]: https://media-exp1.licdn.com/dms/image/C4E16AQHXmQtCru4MqA/profile-displaybackgroundimage-shrink_350_1400/0?e=1600300800&v=beta&t=kDHTRIRRMeJRUxEaESOL1ALVNCrsRj3DW_zAmLcssqg
+[banner]: https://raw.githubusercontent.com/palhamel/palhamel/master/background-sm.jpeg
 
 [react]: https://reactjs.org/
 [node]: https://nodejs.org/en/
