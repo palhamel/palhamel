@@ -6,7 +6,7 @@
 
 👨 I’m a creative director, frontend developer and digital designer with a diverse skillset including marketing, strategy and brand communication. 
 
-👨🏼‍💻 Working with [react][react], [node][node], [express][express], [mongoDb][mongodb], [styled-components][styled], [tailwind][tailwind].
+👨🏼‍💻 Working with ⚛️[react][react], [node][node], [express][express], [mongoDb][mongodb], [styled-components][styled], [tailwind][tailwind].
 
 🌱 I have a special interest in sustainability, business development, tech, marketing, strategy, storytelling and content creation.
 
