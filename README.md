@@ -9,7 +9,7 @@
 👨🏼‍💻 Working with ⚛️ [react][react], [node][node], [express][express], [mongoDb][mongodb], [styled-components][styled], [tailwind][tailwind].
 
 I also enjoy testing code ideas using 
-🖍 [codepen][codepen] **|** 
+🖍 [codepen][codepen] and 
 🏝 [codesandbox][codesandbox]
 
 🌱 I have a special interest in sustainability, business development, tech, marketing, strategy, storytelling and content creation.
