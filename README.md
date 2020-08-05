@@ -18,7 +18,7 @@ I also enjoy testing code ideas using
 
 💬 Favorite quote: "You are always a student, never a master. You have to keep moving forward." (Conrad Hall)
 
-Let's connect! 👍🏻  
+Let's connect!   
 👔 [linkedin][linkedin] **|** 
 📷 [instagram][instagram] **|** 
 🎬 [vimeo][vimeo] **|** 
