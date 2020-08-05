@@ -17,10 +17,10 @@
 👔 [linkedin][linkedin] **|** 
 📷 [instagram][instagram] **|** 
 🎬 [vimeo][vimeo] **|** 
-🐦 [twitter][twitter] **|** 
+🐦 [twitter][twitter] 
 and I enjoy using 
-🐦 [codepen][codepen] **|** 
-🐦 [codesandbox][codesandbox] **|** 
+🖍 [codepen][codepen] **|** 
+🏝 [codesandbox][codesandbox] **|** 
 
 [banner]: https://raw.githubusercontent.com/palhamel/palhamel/master/background-sm.jpeg
 
