@@ -6,7 +6,8 @@
 
 👨 I’m a creative director, frontend developer and digital designer with a diverse skillset including marketing, strategy and brand communication. 
 
-👨🏼‍💻 Working with ⚛️ [react][react], [node][node], [express][express], [mongoDb][mongodb], [styled-components][styled], [tailwind][tailwind]. 
+👨🏼‍💻 Working with ⚛️ [react][react], [node][node], [express][express], [mongoDb][mongodb], [styled-components][styled], [tailwind][tailwind].
+
 I also enjoy testing code ideas using 
 🖍 [codepen][codepen] **|** 
 🏝 [codesandbox][codesandbox]
@@ -17,7 +18,7 @@ I also enjoy testing code ideas using
 
 💬 Favorite quote: "You are always a student, never a master. You have to keep moving forward." (Conrad Hall)
 
-Let's connect ➡️ 
+Let's connect! 👍🏻  
 👔 [linkedin][linkedin] **|** 
 📷 [instagram][instagram] **|** 
 🎬 [vimeo][vimeo] **|** 
