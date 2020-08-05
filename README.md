@@ -18,7 +18,9 @@
 📷 [instagram][instagram] **|** 
 🎬 [vimeo][vimeo] **|** 
 🐦 [twitter][twitter] **|** 
-and I enjoy
+and I enjoy using 
+🐦 [codepen][codepen] **|** 
+🐦 [codesandbox][codesandbox] **|** 
 
 [banner]: https://raw.githubusercontent.com/palhamel/palhamel/master/background-sm.jpeg
 
@@ -34,3 +36,6 @@ and I enjoy
 [instagram]: https://www.instagram.com/palhamel/
 [linkedin]: https://www.linkedin.com/in/palhamel/
 [vimeo]: https://vimeo.com/palhamel
+[codepen]: https://codepen.io/palham
+[codesandbox]: https://codesandbox.io/u/palhamel
+
