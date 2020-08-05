@@ -17,7 +17,8 @@
 👔 [linkedin][linkedin] **|** 
 📷 [instagram][instagram] **|** 
 🎬 [vimeo][vimeo] **|** 
-🐦 [twitter][twitter] 
+🐦 [twitter][twitter] **|** 
+and I enjoy
 
 [banner]: https://raw.githubusercontent.com/palhamel/palhamel/master/background-sm.jpeg
 
