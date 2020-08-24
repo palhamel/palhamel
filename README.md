@@ -20,6 +20,7 @@ I also enjoy testing code ideas using
 
 Let's connect! 👍🏻
 
+<br>
 👔 [linkedin][linkedin] **|** 
 📷 [instagram][instagram] **|** 
 🎬 [vimeo][vimeo] **|** 
