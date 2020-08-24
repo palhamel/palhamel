@@ -43,3 +43,4 @@ Let's connect! 👍🏻
 [codepen]: https://codepen.io/palham
 [codesandbox]: https://codesandbox.io/u/palhamel
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palhamel&layout=compact&hide=html" alt="palhamel" /></p>
