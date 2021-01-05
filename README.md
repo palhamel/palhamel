@@ -61,7 +61,14 @@ Let's connect! 👍🏻
 <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/javascript.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/sass.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/tailwindcss.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/styled-components.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/webpack.svg" />
+
+<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/figma.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/firebase.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/googlecloud.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/netlify.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/amazonaws.svg" />
   
   
   
