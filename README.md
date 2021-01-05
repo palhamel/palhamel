@@ -72,6 +72,9 @@ Let's connect! 👍🏻
 <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/git.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/github.svg" />
 
+<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/linux.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/raspberrypi.svg" />
+
 <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/figma.svg" />
   
 </p>
