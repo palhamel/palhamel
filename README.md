@@ -51,39 +51,28 @@ Let's connect! 👍🏻
 <br>
 <p align="left">
 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/bootstrap.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/css3.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/express.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/html5.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/javascript.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/react.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/mongodb.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/node-dot-js.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/javascript.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/express.svg" />
+
+<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/css3.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/bootstrap.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/sass.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/tailwindcss.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/styled-components.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/webpack.svg" />
 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/figma.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/firebase.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/googlecloud.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/netlify.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/amazonaws.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/git.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/github.svg" />
+
+<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/figma.svg" />
   
-  
-  
-  
-
-
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="25" height="25"/> 
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="25" height="25"/> 
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25"/> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25"/> 
-
-
-
-
-
-
 </p>
 
