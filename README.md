@@ -52,6 +52,10 @@ Let's connect! 👍🏻
 <p align="left">
 
 <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/bootstrap.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/css3.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/express.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/html5.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/JavaScript.svg" />
   
   
   
