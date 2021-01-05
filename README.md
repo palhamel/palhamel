@@ -51,7 +51,11 @@ Let's connect! 👍🏻
 <br>
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25"/>
-  <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/bootstrap.svg" />
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/[Bootstrap].svg" />
+  
+  
+  
+  
   <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25"/>                         
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="25" height="25"/> 
