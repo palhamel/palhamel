@@ -58,6 +58,10 @@ Let's connect! 👍🏻
 <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/javascript.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/mongodb.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/node-dot-js.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/javascript.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/sass.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/tailwindcss.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/webpack.svg" />
   
   
   
@@ -71,10 +75,8 @@ Let's connect! 👍🏻
 
 
 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="25" height="25"/>  
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25"/>  
-<img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="25" height="25"/> 
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="25" height="25"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="25" height="25"/>
+
+
+
 </p>
 
