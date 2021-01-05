@@ -51,7 +51,7 @@ Let's connect! 👍🏻
 <br>
 <p align="left">
 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/Bootstrap.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/bootstrap.svg" />
   
   
   
