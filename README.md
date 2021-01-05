@@ -50,8 +50,8 @@ Let's connect! 👍🏻
 
 <br>
 <p align="left">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25"/>
-  <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/[#7952B3].svg" />
+
+<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/Bootstrap.svg" />
   
   
   
