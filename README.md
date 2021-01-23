@@ -16,7 +16,7 @@ I also enjoy testing code ideas using
 
 🌱 I have a special interest in sustainability, business development, tech, marketing, strategy, storytelling and content creation.
 
-🎹 A major hobby since I was aroud 8 years old are [synthesizers].
+🎹 One of my major hobbies are [synthesizers]. 
 
 🧠  I’m a lifelong learner with an entrepreneurial mind and focus to make great ideas become true.
 
