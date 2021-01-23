@@ -15,6 +15,7 @@ I also enjoy testing code ideas using
 🏝 [codesandbox][codesandbox]
 
 🌱 I have a special interest in sustainability, business development, tech, marketing, strategy, storytelling and content creation.
+🎹 A big hobby since I was aroud 8 years old are [synthesizers] [synthesizers].
 
 🧠  I’m a lifelong learner with an entrepreneurial mind and focus to make great ideas become true.
 
@@ -44,6 +45,8 @@ Let's connect! 👍🏻
 [vimeo]: https://vimeo.com/palhamel
 [codepen]: https://codepen.io/palham
 [codesandbox]: https://codesandbox.io/u/palhamel
+
+[synthesizers]: https://en.wikipedia.org/wiki/Synthesizer
 
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palhamel&layout=compact&hide=html,css" alt="palhamel" /></p>
