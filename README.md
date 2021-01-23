@@ -6,9 +6,7 @@
 
 👨 I’m a creative director, frontend developer and digital designer with a diverse skillset including marketing, strategy and brand communication. 
 
-👨🏼‍💻 Working with ⚛️ [react][react], [node][node], [express][express], [mongoDB][mongodb], [styled-components][styled], [tailwind][tailwind].
-
-I also very much like to work (and just have fun and explore) with Linux, CLI, VPS and Raspberry Pi's. 🙏🏻
+👨🏼‍💻 Working with ⚛️ [react][react], [node][node], [express][express], [mongoDB][mongodb], [styled-components][styled], [tailwind][tailwind]. I also very much like to work (and just have fun and explore) with Linux, CLI, VPS and Raspberry Pi's. 🙏🏻
 
 I also enjoy testing code ideas using 
 🖍 [codepen][codepen] and 
@@ -18,7 +16,7 @@ I also enjoy testing code ideas using
 
 🎹 One of my major hobbies are [synthesizers]. 
 
-🧠  I’m a lifelong learner with an entrepreneurial mind and focus to make great ideas become true.
+🧠  And I’m a lifelong learner with an entrepreneurial mind and focus to make great ideas become true. 🙏🏻
 
 💬 Favorite quote: "You are always a student, never a master. You have to keep moving forward." (Conrad Hall)
 
