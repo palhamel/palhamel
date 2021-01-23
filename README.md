@@ -15,7 +15,8 @@ I also enjoy testing code ideas using
 🏝 [codesandbox][codesandbox]
 
 🌱 I have a special interest in sustainability, business development, tech, marketing, strategy, storytelling and content creation.
-🎹 A big hobby since I was aroud 8 years old are [synthesizers] [synthesizers].
+
+🎹 A major hobby since I was aroud 8 years old are [synthesizers].
 
 🧠  I’m a lifelong learner with an entrepreneurial mind and focus to make great ideas become true.
 
