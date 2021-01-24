@@ -6,9 +6,7 @@
 
 👨 I’m a creative director, frontend developer and digital designer with a diverse skillset including marketing, strategy and brand communication. 
 
-👨🏼‍💻 Working with ⚛️ [react][react], [node][node], [express][express], [mongoDB][mongodb], [styled-components][styled], [tailwind][tailwind]. I also very much like to work (and just have fun and explore) with Linux, CLI, VPS and Raspberry Pi's. 🙏🏻
-
-I also enjoy testing code ideas using 
+👨🏼‍💻 Working with ⚛️ [react][react], [node][node], [express][express], [mongoDB][mongodb], [styled-components][styled], [tailwind][tailwind]. I also very much like to work (and just have fun and explore) with Linux, CLI, VPS and Raspberry Pi's. 🙏🏻 I also enjoy testing code ideas using 
 🖍 [codepen][codepen] and 
 🏝 [codesandbox][codesandbox]
 
