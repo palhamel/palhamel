@@ -12,7 +12,7 @@
 
 🌱 I have a special interest in sustainability, business development, tech, marketing, strategy, storytelling and content creation.
 
-🎹 One of my major hobbies are [synthesizers]. 
+🎹 One of my major hobbies are [synthesizers]. And I love house music. 🎧
 
 🧠  And I’m a lifelong learner with an entrepreneurial mind and focus to make great ideas become true. 🙏🏻
 
