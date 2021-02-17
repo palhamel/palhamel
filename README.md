@@ -47,7 +47,7 @@ Let's connect! 👍🏻
 [house music]: https://en.wikipedia.org/wiki/House_music
 
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palhamel&langs_count=8layout=compact&hide=html,css" alt="palhamel" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palhamel&langs_count=8&layout=compact&hide=html,css" alt="palhamel" /></p>
 
 <br>
 <p align="left">
