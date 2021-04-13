@@ -9,8 +9,9 @@
 👨🏼‍💻 Working with JavaScript, ⚛️ [react][react], [node][node], [express][express], [mongoDB][mongodb], [styled-components][styled], [tailwind][tailwind]. I like to explore with Linux, CLI, VPS and Raspberry Pi's. 🙏🏻 
 
 🌱 I have a special interest in sustainability 🌍, business development, tech, marketing, strategy, storytelling and content creation.
-
 🎹 One of my major hobbies are [synthesizers] and [house music]. 🎧
+
+🕹 I combine my passion for visual design, motion graphics, film, digital signage and code at [VSLRBL][VSLRBL].
 
 🧠  And I’m a lifelong learner with an entrepreneurial mind and focus to make great ideas become true. 🙏🏻
 
@@ -25,6 +26,8 @@
 
 
 [banner]: https://raw.githubusercontent.com/palhamel/palhamel/master/background-sm.jpeg
+
+[VSLRBL]: https://www.vslrbl.se/
 
 [react]: https://reactjs.org/
 [node]: https://nodejs.org/en/
