@@ -4,13 +4,11 @@
 
 ### Creative Director/ Frontend Developer/ Digital Designer
 
-👨 I’m a creative director, frontend developer and digital designer with a diverse skillset including marketing, strategy and brand communication. 
+👨 I’m a creative director, frontend developer and digital designer with a diverse skillset, including marketing, strategy and brand communication. 
 
-👨🏼‍💻 Working with ⚛️ [react][react], [node][node], [express][express], [mongoDB][mongodb], [styled-components][styled], [tailwind][tailwind]. I also very much like to work (and just have fun and explore) with Linux, CLI, VPS and Raspberry Pi's. 🙏🏻 I also enjoy testing code ideas using 
-🖍 [codepen][codepen] and 
-🏝 [codesandbox][codesandbox]
+👨🏼‍💻 Working with JavaScript, ⚛️ [react][react], [node][node], [express][express], [mongoDB][mongodb], [styled-components][styled], [tailwind][tailwind]. I like to explore with Linux, CLI, VPS and Raspberry Pi's. 🙏🏻 
 
-🌱 I have a special interest in sustainability, business development, tech, marketing, strategy, storytelling and content creation.
+🌱 I have a special interest in sustainability 🌍, business development, tech, marketing, strategy, storytelling and content creation.
 
 🎹 One of my major hobbies are [synthesizers] and [house music]. 🎧
 
@@ -21,7 +19,9 @@
 👔 [linkedin][linkedin] **|** 
 📷 [instagram][instagram] **|** 
 🎬 [vimeo][vimeo] **|** 
-🐦 [twitter][twitter] 
+🐦 [twitter][twitter] **|** 
+🖍 [codepen][codepen] **|** 
+🏝 [codesandbox][codesandbox]
 
 
 [banner]: https://raw.githubusercontent.com/palhamel/palhamel/master/background-sm.jpeg
