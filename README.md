@@ -4,16 +4,20 @@
 
 ### Creative Director/ Frontend Developer/ Digital Designer
 
-👨 I’m a creative director, frontend developer and digital designer with a diverse skillset, including marketing, strategy and brand communication. 
+👨 I make brands shine! 🌟 I’m a creative director, frontend developer and digital designer with a diverse skillset including marketing, strategy, digital signage and brand communication. 
 
 👨🏼‍💻 Working with JavaScript, [react][react], [node][node], [express][express], [mongoDB][mongodb], [styled-components][styled], [tailwind][tailwind] and more. I like to explore with Linux, CLI, VPS and Raspberry Pi's. 🙏🏻 
 
+I have extensive experience working with clients, brands, budgets, managing projects, solving problems and achieving goals. >11 years experience working with cloud powered solutions for Digital Signage.
+
 🌍 I have a special interest in sustainability 🌱, business development, tech, marketing, strategy, storytelling and content creation.
-🎹 One of my major hobbies are [synthesizers] and [house music]. 🎧
+🎹 One of my major hobbies are [synthesizers], sound creation and [house music]. 🎧
 
-🕹 I combine my passion for visual design, motion graphics, film, digital signage and code at [VSLRBL][VSLRBL].
+🕹 I combine my passion for visual design, code, motion graphics, film and digital signage at [VSLRBL][VSLRBL]. We make awesome visual brand communication. And tech solutions that support it.
 
-🧠  And I’m a lifelong learner with an entrepreneurial mind and focus to make great ideas become true.
+🧠 A few personal skills are great idea synthesis, rapid learning and adaptability.
+🌟 I’m a lifelong learner with an entrepreneurial mind and focus to make great ideas become true.
+🙋‍♂️ And I have a considerable experience of working and managing teams remotely.
 
 💬 Favorite quote: "You are always a student, never a master. You have to keep moving forward." (Conrad Hall)
 
