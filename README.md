@@ -57,14 +57,14 @@
 <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/javascript.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/react.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/mongodb.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/node-dot-js.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/nodedotjs.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/express.svg" />
 
 <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/css3.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/bootstrap.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/sass.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/tailwindcss.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/styled-components.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/styledcomponents.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/webpack.svg" />
 
 <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/firebase.svg" />
