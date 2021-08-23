@@ -10,8 +10,8 @@
 
 I have extensive experience working with clients, brands, budgets, managing projects, solving problems and achieving goals. >11 years experience working with cloud powered solutions for Digital Signage.
 
-🌍 I have a special interest in sustainability 🌱, business development, tech, marketing, strategy, storytelling and content creation.
-🎹 One of my major hobbies are [synthesizers], sound creation, gaming, 8-bit NES/Famicom and [house music]. 🎧
+🌍 I have a great interest in our climate 🌍🌱, business development, tech, marketing, strategy, storytelling and content creation.
+🎹 Some of my major hobbies are [synthesizers], sound creation, gaming, 8-bit NES/Famicom and [house music]. 🎧
 
 🕹 I combine my passion for visual design, code, motion graphics, film and digital signage at [VSLRBL][VSLRBL]. We make awesome visual brand communication. And tech solutions that support it.
 
