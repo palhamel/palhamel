@@ -13,7 +13,7 @@
 🙋‍♂️ And I have a considerable experience of working and managing teams remotely.
 
 I have extensive experience working with clients, brands, budgets, managing projects, solving problems and achieving goals. 
->11 years experience working with cloud powered solutions for Digital Signage.
+And >11 years experience working with cloud powered solutions for Digital Signage.
 
 🌍 I have a great interest in our climate 🌱, business development, tech, marketing, strategy, storytelling and content creation.
 
