@@ -6,7 +6,7 @@
 
 👨 I make brands shine! 🌟 I’m a creative director, frontend developer and digital designer with a diverse skillset including marketing, strategy, digital signage and brand communication. 
 
-👨🏼‍💻 Working with JavaScript, [react][react], [node][node], [express][express], [mongoDB][mongodb], [styled-components][styled], [tailwind][tailwind] and more. I like to explore and play with Linux, CLI, VPS and Raspberry Pi's. 🙏🏻 
+👨🏼‍💻 Working with JavaScript, [react][react], next, [node][node], [express][express], [mongoDB][mongodb], [styled-components][styled], [tailwind][tailwind] and more. I like to explore and play with Linux, CLI, VPS and Raspberry Pi's. 🙏🏻 
 
 🧠 A few personal skills are great idea synthesis, rapid learning and adaptability.
 🌟 I’m a lifelong learner with an entrepreneurial mind and focus to make great ideas become true.
