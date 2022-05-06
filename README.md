@@ -4,7 +4,7 @@
 
 ### Creative Director/ Frontend Developer/ Digital Designer
 
-👨 I make brands shine! 🌟 I’m a creative director, frontend developer and digital designer with a diverse skillset including AI, marketing, strategy, digital signage and brand communication. 
+👨 I make brands shine! 🌟 I’m a Creative Director, Developer and Digital Designer with a diverse skillset including AI/ML, robotics, IoT, marketing strategy, digital signage, content creation and brand communication.
 
 👨🏼‍💻 Working with JavaScript, [react][react], next, [node][node], [express][express], [mongoDB][mongodb], [styled-components][styled], [tailwind][tailwind] and more. I like to explore and play with Linux, CLI, VPS and Raspberry Pi's. 🙏🏻 
 
