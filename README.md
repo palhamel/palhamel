@@ -2,9 +2,9 @@
 
 ### Hi I'm Pål 👋 🇸🇪 
 
-### Creative Director, Developer and Digital Designer
+### Developer | Digital Designer | Tech Specialist 🧠🌱
 
-I make brands shine! 🌟 I’m a Creative Director, Developer and Digital Designer with a diverse skillset including AI/ML, robotics, brain-computer interface 🧠, IoT network & connectivity 📡, marketing strategy, digital signage, content creation and brand communication.
+I make brands shine! 🌟 I’m a Developer, Digital Designer and Tech Specialist with a diverse skillset including AI/ML, robotics, brain-computer interface 🧠, IoT network & connectivity 📡, marketing strategy, digital signage, content creation and brand communication. 
 
 👨🏼‍💻 Working with JavaScript, [react][react], next, [node][node], [express][express], [mongoDB][mongodb], [styled-components][styled], [tailwind][tailwind] and more. I like to explore and play with Linux and ESP/Raspberry Pi. 🙏🏻 
 
@@ -18,8 +18,7 @@ And >11 years experience working with cloud powered solutions for Digital Signag
 🌍 I have a great interest in our climate 🌱, business development, tech, marketing, strategy, storytelling and content creation.
 
 🎹 Some of my major hobbies are [synthesizers], gaming, 8-bit NES/Famicom and [house music]. 🎧
-
-🕹 I combine my passion for code/tech, visual design, motion graphics and digital signage at [VSLRBL][VSLRBL]. We make awesome visual brand communication. And tech solutions that support it.
+🕹 I combine my passion for code/tech, visual design and digital signage at [VSLRBL][VSLRBL]. We make awesome visual brand communication. And tech solutions that support it.
 
 💬 Favorite quote: "You are always a student, never a master. You have to keep moving forward." (Conrad Hall)
 
