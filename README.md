@@ -2,46 +2,30 @@
 
 ### Hi I'm Pål 👋 🇸🇪 
 
-### Developer | Digital Designer | Tech Specialist 🧠🌱
+### ## Full-Stack Developer & AI Solutions Architect 🤖 🧠🌱
 
-I make brands shine! 🌟 I’m a Developer, Digital Designer and Tech Specialist with a diverse skillset including AI/ML, robotics, brain-computer interface 🧠, IoT network & connectivity 📡, marketing strategy, digital signage, content creation and brand communication. 
+ I craft tailored technical solutions for customers with tech like JS(ES6+), React/Next/Astro/Solid, SQL/MongoDB, Node.js/Express, Tailwind, LlamaIndex, Langchain, Git, Linux, ESP32/ARM and more. 🤖 Building production RAG systems, MCP servers and AI-integrated full-stack applications with LlamaIndex, Langchain and vector databases. Daily workflow for AI-assisted engineering includes Copilot, Claude Code, and Vercel AI SDK among others.
 
-👨🏼‍💻 Working with JavaScript, [react][react], next, [node][node], [express][express], [mongoDB][mongodb], [styled-components][styled], [tailwind][tailwind] and more. I like to explore and play with Linux and ESP/Raspberry Pi. 🙏🏻 
+🎓 Proud advisory board member at Technigo, shaping future developers. 🧠
+☕ Organizing tech meetups at **[Kodfika.se](https://kodfika.se)**
 
-🧠 A few personal skills are great idea synthesis, rapid learning and adaptability.
-🌟 I’m a lifelong learner with an entrepreneurial mind and focus to make great ideas become true.
-🙋‍♂️ And I have a considerable experience of working and managing teams remotely.
+Constantly curious. Always an entrepreneur. 🙋‍♂️
 
-I have extensive experience working with clients, brands, budgets, managing projects, solving problems and achieving goals. 
-And >11 years experience working with cloud powered solutions for Digital Signage.
+### 🎵 When Not Coding
 
-🌍 I have a great interest in our climate 🌱, business development, tech, marketing, strategy, storytelling and content creation.
-
-🎹 Some of my major hobbies are [synthesizers], gaming, 8-bit NES/Famicom and [house music]. 🎧
-🕹 I combine my passion for code/tech, visual design and digital signage at [VSLRBL][VSLRBL]. We make awesome visual brand communication. And tech solutions that support it.
+🎹 [Synthesizers][synthesizers] • 🕹 8-bit NES/Famicom • 🎧 [House Music][house-music] 
 
 💬 Favorite quote: "You are always a student, never a master. You have to keep moving forward." (Conrad Hall)
 
 👔 [linkedin][linkedin] **|** 
-📷 [instagram][instagram] **|** 
 
 
 [banner]: https://raw.githubusercontent.com/palhamel/palhamel/master/background-sm.jpeg
 
 [VSLRBL]: https://www.vslrbl.se/
 
-[react]: https://reactjs.org/
-[node]: https://nodejs.org/en/
-[styled]: https://styled-components.com/
-[express]: https://expressjs.com/
-[mongoDb]: https://www.mongodb.com/
-[tailwind]: https://tailwindcss.com
-
 [website]: https://www.linkedin.com/in/palhamel/
-[instagram]: https://www.instagram.com/palhamel/
 [linkedin]: https://www.linkedin.com/in/palhamel/
-[codepen]: https://codepen.io/palham
-[codesandbox]: https://codesandbox.io/u/palhamel
 
 [synthesizers]: https://en.wikipedia.org/wiki/Synthesizer
 [house music]: https://en.wikipedia.org/wiki/House_music
