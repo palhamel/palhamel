@@ -2,7 +2,7 @@
 
 ### Hi I'm Pål, from Sweden! 👋 🇸🇪 
 
-### Full-Stack Developer & AI Solutions Architect 🤖 🧠🌱
+### Developer & AI Solutions Architect 🤖 🧠🌱
 
  I craft tailored technical solutions for customers with tech like JS(ES6+), React/Next/Astro/Solid, SQL/MongoDB, Node.js/Express, Tailwind, LlamaIndex, Langchain, Git, Linux, ESP32/ARM and more. 🤖 Building production RAG systems, MCP servers and AI-integrated full-stack applications with LlamaIndex, Langchain and vector databases. Daily workflow for AI-assisted engineering includes Copilot, Claude Code, and Vercel AI SDK among others.
 
