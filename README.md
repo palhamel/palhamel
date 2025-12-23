@@ -4,7 +4,7 @@
 
 ### Developer & AI Solutions Architect 🤖 🧠🌱
 
- I craft tailored technical solutions for customers with tech like JS(ES6+), React/Next/Astro/Solid, SQL/MongoDB, Node.js/Express, Tailwind, LlamaIndex, Langchain, Git, Linux, ESP32/ARM and more. 🤖 Building production RAG systems, MCP servers and AI-integrated full-stack applications with LlamaIndex, Langchain and vector databases. Daily workflow for AI-assisted engineering includes Copilot, Claude Code, and Vercel AI SDK among others.
+ I craft tailored technical solutions for customers and deliver secure, well-designed, and trusted industrial network, IoT edge and connectivity for the most demanding environments and public spaces. 🤖 Building production RAG systems, MCP servers and AI-integrated full-stack applications with LlamaIndex, Langchain and vector databases. 
 
 🎓 Proud advisory board member at [Technigo](https://www.technigo.io/), shaping future developers. 🧠
 ☕ Organizing tech meetups at [Kodfika.se](https://kodfika.se)
