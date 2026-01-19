@@ -1,6 +1,6 @@
 [![bg][banner]][website]
 
-### Hi I'm Pål, from Sweden! 👋 🇸🇪 
+### Hi I'm Pål, from Sweden! 👋 🇸🇪🇪🇺 
 
 ### Developer & AI Solutions Architect 🤖 🧠🌱
 
