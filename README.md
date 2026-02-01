@@ -8,6 +8,7 @@
 
 🎓 Proud advisory board member at [Technigo](https://www.technigo.io/), shaping future developers. 🧠
 ☕ Organizing tech meetups at [Kodfika.se](https://kodfika.se)
+OWASP member.
 
 Constantly curious. Always an entrepreneur. To take the road less travelled is always brave. 🙋‍♂️
 
