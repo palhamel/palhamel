@@ -2,7 +2,7 @@
 
 ### Hi I'm Pål, from Sweden! 👋 🇸🇪🇪🇺 
 
-### Fullstack Developer & AI Solutions Architect 🤖 🧠🌱
+### Developer & AI Solutions Architect 🤖 🧠🌱
 
  I craft tailored technical solutions for customers and deliver secure, well-designed, and trusted industrial network, IoT edge and connectivity for the most demanding environments and public spaces. 🤖 Building production RAG systems, MCP servers and AI-integrated full-stack applications with LlamaIndex, Langchain and vector databases. 
 
