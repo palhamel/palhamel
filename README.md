@@ -4,15 +4,15 @@
 
 ### Developer & AI Solutions Architect 🤖 🧠🌱
 
- I craft tailored technical solutions for customers and deliver secure, well-designed, and trusted industrial network, IoT edge and connectivity for the most demanding environments and public spaces. 🤖 Building production RAG systems, MCP servers and AI-integrated full-stack applications with LlamaIndex, Langchain and vector databases. 
+I craft tailored technical solutions for customers and deliver secure, well-designed, and trusted industrial network, IoT edge and connectivity for the most demanding environments and public spaces. 🤖 Building production RAG systems, MCP servers and AI-integrated full-stack applications with LlamaIndex, Langchain and vector databases. 
 
-🎓 Proud advisory board member at [Technigo](https://www.technigo.io/), shaping future developers. 🧠
-☕ Organizing tech meetups at [Kodfika.se](https://kodfika.se). 
-OWASP member.
+🎓 Proud advisory board member at [Technigo](https://www.technigo.io/), shaping future developers.
+☕ Organizing tech meetups at [Kodfika.se](https://kodfika.se). </br>
+🔐 Member of IoT World Sweden and [OWASP](https://owasp.org/).
 
 Constantly curious. To take the road less travelled is always brave. 🙋‍♂️
 
-### 🎵 When Not Coding
+#### 🎵 When Not Coding
 
 🎹 [Synthesizers][synthesizers] • 🕹 [8-bit NES/Famicom](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) • 🎧 [House Music][house-music] 
 
