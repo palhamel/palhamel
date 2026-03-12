@@ -1,42 +1,40 @@
 [![bg][banner]][website]
 
-### Hi I'm Pål, from Sweden! 👋 🇸🇪🇪🇺 
+### Hi, I'm Pal -- Developer and AI Solutions Architect based in Sweden.
 
-### Developer & AI Solutions Architect 🤖 🧠🌱
+I build production-grade AI systems, MCP servers, and full-stack applications. My background spans secure industrial networking, IoT edge connectivity, and LLM-integrated software for demanding environments.
 
-I craft tailored technical solutions for customers and deliver secure, well-designed, and trusted industrial network, IoT edge and connectivity for the most demanding environments and public spaces. 🤖 Building production RAG systems, MCP servers and AI-integrated full-stack applications with LlamaIndex, Langchain and vector databases. 
+Advisory board member at [Technigo](https://www.technigo.io/), helping shape the next generation of developers. Organizer of tech meetups at [Kodfika.se](https://kodfika.se). Member of [OWASP](https://owasp.org/).
 
-🎓 Proud advisory board member at [Technigo](https://www.technigo.io/), shaping future developers.
-☕ Organizing tech meetups at [Kodfika.se](https://kodfika.se). </br>
-🔐 Member of IoT World Sweden and [OWASP](https://owasp.org/).
+---
 
-Constantly curious. To take the road less travelled is always brave. 🙋‍♂️
+### Featured Projects
 
-#### 🎵 When Not Coding
+| Project | Description |
+|---------|-------------|
+| [46elks-mcp-server](https://github.com/palhamel/46elks-mcp-server) | MCP server for the 46elks SMS API. Send SMS through Swedish telecom infrastructure via Claude Desktop, VS Code Copilot, or any MCP client. |
+| [dispatch-service](https://github.com/palhamel/dispatch-service) | General-purpose notification microservice. Routes messages from apps to Discord and Slack. Express 5, SQLite, 164 tests. |
+| [mailfilter-ai](https://github.com/palhamel/mailfilter-ai) | AI-powered self-hosted email filter. Uses LLMs to score and filter digest emails (job ads, newsletters, listings). Docker-ready. |
+| [light-my-scene](https://github.com/palhamel/light-my-scene) | Turn any screen into a colored light source for photography. Zero-dependency PWA optimized for iPad. Live at GitHub Pages. |
 
-🎹 [Synthesizers][synthesizers] • 🕹 [8-bit NES/Famicom](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) • 🎧 [House Music][house-music] 
+---
 
-💬 Favorite quote: "You are always a student, never a master. You have to keep moving forward." (Conrad Hall)
+### Tech and Tools
 
-👔 My [LinkedIn][linkedin] </br>
-Note: I love to connect with like-minded on Linkedin. However if adding me, please also take the time to provide a message introducing yourself. 🤝
+TypeScript, Node.js, Express, React, MCP (Model Context Protocol), LLM integrations (Mistral, OpenAI), Docker, Coolify, Hetzner, Tailwind CSS, PocketBase, Linux/ARM
 
+---
+
+### When Not Coding
+
+Synthesizers, 8-bit NES/Famicom, and house music.
+
+Favorite quote: "You are always a student, never a master. You have to keep moving forward." -- Conrad Hall
+
+---
+
+[LinkedIn][linkedin] -- Always happy to connect with like-minded people. If you add me, please include a short message introducing yourself.
 
 [banner]: https://raw.githubusercontent.com/palhamel/palhamel/master/background-sm.jpeg
-
-[VSLRBL]: https://www.vslrbl.se/
-
 [website]: https://www.linkedin.com/in/palhamel/
 [linkedin]: https://www.linkedin.com/in/palhamel/
-
-[synthesizers]: https://en.wikipedia.org/wiki/Synthesizer
-[house-music]: https://en.wikipedia.org/wiki/House_music
-
-<br>
-<!-- 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palhamel&layout=compact&hide=html,css" alt="palhamel" /></p>
--->
-
-<br>
-
-
