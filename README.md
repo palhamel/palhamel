@@ -1,6 +1,6 @@
 [![bg][banner]][website]
 
-### Hi, I'm Pal -- Developer and AI Solutions Architect based in Sweden.
+### Hi, I'm Pål, Developer and AI Solutions Architect based in Sweden.
 
 I build production-grade AI systems, MCP servers, and full-stack applications. My background spans secure industrial networking, IoT edge connectivity, and LLM-integrated software for demanding environments.
 
