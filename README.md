@@ -8,7 +8,7 @@ I craft tailored technical solutions for customers and deliver secure, well-desi
 
 🎓 Proud advisory board member at [Technigo](https://www.technigo.io/), shaping future developers.
 ☕ Organizing tech meetups at [Kodfika.se](https://kodfika.se). </br>
-🔐 Member of IoT World Sweden and [OWASP](https://owasp.org/).
+🔐 Member of [IoT World Sweden](https://linkopingsciencepark.se/iot-internet-of-things/) and [OWASP](https://owasp.org/).
 
 Constantly curious. To take the road less travelled is always brave. 🙋‍♂️
 
