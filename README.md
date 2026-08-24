@@ -1,7 +1,5 @@
 ![bg][banner]
 
-### Hi I'm Pål, from Sweden! 👋 🇸🇪🇪🇺
-
 ### Developer & AI Solutions Architect 🤖 🧠🌱
 
 Building secure, compliant systems with DevSecOps principles. Fullstack Developer & AI Solutions Architect specializing in security automation, CI/CD pipelines, and EU compliance (NIS2/CRA). 🇸🇪🇪🇺
