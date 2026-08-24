@@ -1,40 +1,14 @@
-[![bg][banner]][website]
+![bg][banner]
 
 ### Hi I'm Pål, from Sweden! 👋 🇸🇪🇪🇺
 
 ### Developer & AI Solutions Architect 🤖 🧠🌱
 
-I craft tailored technical solutions for customers and deliver secure, well-designed, and trusted industrial network, IoT edge and connectivity for the most demanding environments and public spaces. 🤖 Building production RAG systems, MCP servers and AI-integrated full-stack applications with LlamaIndex, Langchain and vector databases.
+Building secure, compliant systems with DevSecOps principles. Fullstack Developer & AI Solutions Architect specializing in security automation, CI/CD pipelines, and EU compliance (NIS2/CRA). 🇸🇪🇪🇺
 
-🎓 Proud advisory board member at [Technigo](https://www.technigo.io/), shaping future developers.
-☕ Organizing tech meetups at [Kodfika.se](https://kodfika.se). </br>
-🔐 Member of [IoT World Sweden](https://linkopingsciencepark.se/iot-internet-of-things/) and [OWASP](https://owasp.org/).
-
-Constantly curious. To take the road less travelled is always brave. 🙋‍♂️
-
-#### 🎵 When Not Coding
-
-🎹 [Synthesizers][synthesizers] • 🕹 [8-bit NES/Famicom](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) • 🎧 [House Music][house-music]
+🎓 Advisory board member at Technigo (JS, SEC, AI), member of IoT World Sweden and OWASP.
+🧠 Constantly curious and learning. Organizing tech meetups at Kodfika.se 
 
 💬 Favorite quote: "You are always a student, never a master. You have to keep moving forward." (Conrad Hall)
 
-👔 My [LinkedIn][linkedin] </br>
-Note: I love to connect with like-minded on Linkedin. However if adding me, please also take the time to provide a message introducing yourself. 🤝
-
-
 [banner]: https://raw.githubusercontent.com/palhamel/palhamel/master/background-sm.jpeg
-
-[VSLRBL]: https://www.vslrbl.se/
-
-[website]: https://www.linkedin.com/in/palhamel/
-[linkedin]: https://www.linkedin.com/in/palhamel/
-
-[synthesizers]: https://en.wikipedia.org/wiki/Synthesizer
-[house-music]: https://en.wikipedia.org/wiki/House_music
-
-<br>
-<!--
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palhamel&layout=compact&hide=html,css" alt="palhamel" /></p>
--->
-
-<br>
